@@ -1,0 +1,2 @@
+mirror_url=https://meu-mirror.com/pacotes/
+file:///storage/emulated/0/Tutorial/store

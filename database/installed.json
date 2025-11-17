@@ -1,0 +1,9 @@
+{
+  "Gudan": {
+    "version": "1.0",
+    "archive": "/storage/emulated/0/Tutorial/store/Gudan-1.0.tar.gz",
+    "files": [
+      "/storage/emulated/0/Tutorial/packages/teste.txt"
+    ]
+  }
+}
